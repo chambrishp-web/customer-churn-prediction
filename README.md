@@ -14,7 +14,7 @@ A Machine Learning web application that predicts whether a telecom customer is l
 ## 🚀 Live Demo
 
 🌐 Live App:
-https://customer-churn-prediction-tn8dk4x7oqu5yhmwdbqfym.streamlit.app/
+https://customer-churn-prediction-rpipf8fztjlk3qwzjwn7up.streamlit.app/
 
 📂 GitHub Repository:
 https://github.com/chambrishp-web/customer-churn-prediction

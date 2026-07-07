@@ -60,6 +60,10 @@ customer-churn-prediction/
 ├── feature_names.csv
 ├── logo.png
 ├── requirements.txt
+├── screenshots/
+│   ├── Home Page.png
+│   ├── Prediction Result.png
+│   └── Bulk Prediction.png
 └── README.md
 ```
 
@@ -123,6 +127,17 @@ streamlit run app.py
 
 ---
 
+## 💡 Skills Demonstrated
+
+- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Streamlit Web Development
+- Data Visualization
+- Model Deployment
+- Git & GitHub
+
+---
 ## 👨‍💻 Developer
 
 **Chambrish Prabhu**

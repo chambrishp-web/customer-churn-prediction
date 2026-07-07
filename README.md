@@ -1,5 +1,12 @@
 # 📊 Customer Churn Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![License](https://img.shields.io/badge/License-Educational-yellow)
+
+A Machine Learning web application...
+
 A Machine Learning web application that predicts whether a telecom customer is likely to churn using a Random Forest Classifier. The application is built with Streamlit and provides an interactive dashboard for individual and bulk customer predictions.
 
 ---
@@ -72,17 +79,14 @@ Model Accuracy:
 
 ## 📷 Application Screenshots
 
-### Home Page
+### 🏠 Home Page
+![Home Page](screenshots/Home%20Page.png)
 
-(Add screenshot here)
+### 📊 Prediction Result
+![Prediction Result](screenshots/Prediction%20Result.png)
 
-### Prediction Result
-
-(Add screenshot here)
-
-### Bulk Prediction
-
-(Add screenshot here)
+### 📂 Bulk Prediction
+![Bulk Prediction](screenshots/Bulk%20Prediction.png)
 
 ---
 

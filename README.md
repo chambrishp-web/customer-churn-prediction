@@ -7,7 +7,7 @@
 
 A Machine Learning web application...
 
-A Machine Learning web application that predicts whether a telecom customer is likely to churn using a Random Forest Classifier. The application is built with Streamlit and provides an interactive dashboard for individual and bulk customer predictions.
+A Machine Learning web application that predicts whether a telecom customer is likely to churn using a Random Forest Classifier. The application is built with Streamlit and provides an interactive dashboard for both individual and bulk customer predictions.
 
 ---
 

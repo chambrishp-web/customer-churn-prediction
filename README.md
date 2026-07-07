@@ -1,47 +1,135 @@
 # 📊 Customer Churn Prediction System
 
-A Machine Learning web application that predicts whether a telecom customer is likely to churn.
+A Machine Learning web application that predicts whether a telecom customer is likely to churn using a Random Forest Classifier. The application is built with Streamlit and provides an interactive dashboard for individual and bulk customer predictions.
 
-## Features
+---
 
-- Customer Churn Prediction
-- Stay & Churn Probability
-- Risk Score
-- Feature Importance
-- Prediction Explanation
-- Business Recommendations
-- CSV Report Download
-- PDF Report Download
-- Bulk Customer Prediction
-- Interactive Dashboard
+## 🚀 Live Demo
 
-## Technologies Used
+🌐 Live App:
+https://customer-churn-prediction-tn8dk4x7oqu5yhmwdbqfym.streamlit.app/
+
+📂 GitHub Repository:
+https://github.com/chambrishp-web/customer-churn-prediction
+
+---
+
+## 📌 Features
+
+- Customer churn prediction
+- Random Forest Machine Learning model
+- Individual customer prediction
+- Bulk CSV prediction
+- Churn probability calculation
+- Risk level analysis
+- Interactive dashboard
+- Feature importance visualization
+- PDF report download
+- CSV report download
+- Customer summary
+- Business recommendations
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - Streamlit
-- Scikit-Learn
 - Pandas
+- Scikit-Learn
 - Matplotlib
 - Joblib
 - ReportLab
 
-## Machine Learning Model
+---
+
+## 📁 Project Structure
+
+```
+customer-churn-prediction/
+│
+├── app.py
+├── customer_churn_model.pkl
+├── feature_names.csv
+├── logo.png
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 📊 Machine Learning Model
+
+Algorithm:
 
 Random Forest Classifier
 
-Accuracy: **82.11%**
+Model Accuracy:
 
-## Project Structure
+**82.11%**
 
+---
+
+## 📷 Application Screenshots
+
+### Home Page
+
+(Add screenshot here)
+
+### Prediction Result
+
+(Add screenshot here)
+
+### Bulk Prediction
+
+(Add screenshot here)
+
+---
+
+## ▶️ Run Locally
+
+Clone the repository
+
+```bash
+git clone https://github.com/chambrishp-web/customer-churn-prediction.git
 ```
-app.py
-customer_churn_model.pkl
-feature_names.csv
-requirements.txt
-logo.png
-README.md
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
 ```
 
-## Developer
+Run the application
 
-Chambrish Prabhu
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🎯 Future Improvements
+
+- User Authentication
+- Database Integration
+- SHAP Explainable AI
+- Cloud Deployment
+- Email Alerts
+- Dashboard Analytics
+
+---
+
+## 👨‍💻 Developer
+
+**Chambrish Prabhu**
+
+GitHub:
+https://github.com/chambrishp-web
+
+---
+
+## 📜 License
+
+This project is developed for educational and portfolio purposes.
+
+© 2026 Chambrish Prabhu

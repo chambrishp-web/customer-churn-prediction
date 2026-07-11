@@ -5,7 +5,6 @@ import os
 import matplotlib.pyplot as plt
 from reportlab.platypus import SimpleDocTemplate, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
-from pathlib import Path
 
 # ==========================================
 # Page Configuration
@@ -19,10 +18,8 @@ st.set_page_config(
 # ==========================================
 # Load Machine Learning Model
 # ==========================================
-BASE_DIR = Path(__file__).resolve().parent
-
-model = joblib.load(BASE_DIR / "customer_churn_model.pkl")
-feature_names = pd.read_csv(BASE_DIR / "feature_names.csv").iloc[:, 0].tolist()
+model = joblib.load("customer_churn_model.pkl")
+feature_names = pd.read_csv("feature_names.csv").iloc[:, 0].tolist()
 
 
 def prepare_features_for_model(df):

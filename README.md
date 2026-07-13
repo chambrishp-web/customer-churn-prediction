@@ -11,6 +11,18 @@ A Machine Learning web application that predicts whether a telecom customer is l
 
 ---
 
+## 🚀 Live Demo
+
+🌐 Live App:
+
+https://customer-churn-prediction-gge62pabce8mqzyumqhrtp.streamlit.app
+
+📂 GitHub Repository:
+
+https://github.com/chambrishp-web/customer-churn-prediction
+
+---
+
 ## 📌 Features
 
 - Customer churn prediction
